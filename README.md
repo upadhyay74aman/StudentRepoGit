@@ -8,3 +8,6 @@ This project demonstrates basic Git operations.
 
 Version 2:
 I have learned the basics of Git.
+
+Version 3:
+Git helps developers manage project history.

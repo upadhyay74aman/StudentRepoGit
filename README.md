@@ -5,3 +5,6 @@ Roll Number: 202401100300032
 Course: CSE - AI
 
 This project demonstrates basic Git operations.
+
+Version 2:
+I have learned the basics of Git.
